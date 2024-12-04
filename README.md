@@ -1,4 +1,4 @@
-![Appicon](images/autobot.png)
+![Appicon](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 # Stimassign
 
