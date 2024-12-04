@@ -1,5 +1,6 @@
+![Appicon](images/autobot.png)
 
-# English Exercise App
+# Stimassign
 
 English Exercise App is designed to help users improve their language skills through interactive and engaging exercises. With both offline and online capabilities, the app provides personalized feedback, tracking progress, and customized challenges to suit every learner.
 
@@ -114,4 +115,4 @@ lib/
 - **Dynamic Content**: Challenges and quizzes adapt to the user's progress and performance.
 
 ---
-Developed by [Your Name]
+Developed by Shubham choudhary
