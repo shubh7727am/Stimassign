@@ -114,10 +114,6 @@ lib/
 - **Caching & Error Handling**: Robust mechanisms for offline access and error recovery.
 - **Dynamic Content**: Challenges and quizzes adapt to the user's progress and performance.
 
-## Demo video
-
-[Video](DemoVideos/Demo.mp4)
-
 
 ---
 Developed by Shubham choudhary
