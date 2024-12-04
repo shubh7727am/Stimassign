@@ -116,7 +116,7 @@ lib/
 
 ## Demo video
 
-[Watch the video](./path/to/your/video.mp4)
+[Video](DemoVideos/Demo.mp4)
 
 
 ---
